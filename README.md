@@ -1,1 +1,1 @@
-# area_coverate
+# area_coverage
